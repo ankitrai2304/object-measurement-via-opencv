@@ -1,5 +1,3 @@
-Here’s a clean and professional README description for project:
-
 ---
 
 Object Measurement Tool is a web-based application built with Streamlit and OpenCV that allows users to upload an image and automatically detect and measure the dimensions of objects within it. The tool calculates width, height, and area in real-world units (cm) using a fixed pixel-per-cm scale. It displays bounding boxes over detected objects and generates a downloadable CSV report of all measurements.
